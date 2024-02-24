@@ -1,9 +1,12 @@
 ### Hi, I'm Nattamon 🔎
--------------------------------------------------------
+![Nattamon Choopawa | Aspiring Data Scientist](https://dl.dropboxusercontent.com/s/scl/fi/vmz0w9qgib9g3u6u7j8v6/DALL-E-2024-02-24-19.07.17-Create-a-minimalistic-and-professional-GitHub-header-image-featuring-an-animated-representation-of-an-Asian-female-with-long-hair-aspiring-to-be-a-da.webp?rlkey=su2bab85zcvd80g8xr7e6thdk&dl=0)
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtoamtvdXI5eDljZ3VqNTB6aTZ3NmtpYXZvdHBrYXJzbmt3MXloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="200"/>
 </div>
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+---
+### :smile: About Me :
+
 
 
 <!--
