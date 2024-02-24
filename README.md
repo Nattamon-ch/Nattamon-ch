@@ -1,7 +1,7 @@
 ### Hi, I'm Nattamon 🔎
 -------------------------------------------------------
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtoamtvdXI5eDljZ3VqNTB6aTZ3NmtpYXZvdHBrYXJzbmt3MXloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtoamtvdXI5eDljZ3VqNTB6aTZ3NmtpYXZvdHBrYXJzbmt3MXloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="1000"/>
 </div>
 
 
